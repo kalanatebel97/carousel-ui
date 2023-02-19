@@ -1,0 +1,10 @@
+.container {
+  position: absolute;
+  width: 600px;
+  height: 300px;
+  z-index: 15;
+  top: 15%;
+  left: 55%;
+  margin: -100px 0 0 -350px;
+
+}
